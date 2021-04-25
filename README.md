@@ -34,6 +34,7 @@ El representante de ventas o la operadora, después de registrarse en el sistema
 |-------------------|-------------|
 | Código. | Código correlativo, automático y autogenerado por el sistema del representante de ventas. No es editable por el usuario. |
 | Nombre.| Nombre y apellidos del representante de ventas. No es editable por el usuario. | 
+
 | Datos del cliente| | 
 |-------------------|-------------|
 | Código del cliente | Código correlativo, automático y autogenerado por el sistema del cliente. No es editable por el usuario.| 
@@ -44,15 +45,18 @@ El representante de ventas o la operadora, después de registrarse en el sistema
 |Calle.|Nombre de la calle del domicilio del cliente.|
 |Localidad.|Municipio o ciudad donde se ubique el domicilio cliente.|
 |Estado.|Estado donde se ubique domicilio cliente.|
+
 |Pedidos en elaboración||
 |-------------------|-------------|
 |Código.|Código correlativo, automático y autogenerado por el sistema de pedido. No es editable por el usuario.|
 |Fecha elaboración.|Fecha en que se generó el pedido. No es editable por el usuario.|
+
 |Pedidos enviados al almacén.||
 |-------------------|-------------|
 |Código.||Código correlativo, automático y autogenerado por el sistema de pedido. No es editable por el usuario.|
 |Fecha elaboración.|Fecha en que se generó el pedido. No es editable por el usuario.|
 |Fecha llegada almacén|Fecha en que el pedido fue recepcionado en almacén. No es editable por el usuario.|
+
 |Botones de acción: gestión de clientes, buscar, nuevo, modificar, cancelar, pedido, consultar pedido y salir.||
 |-------------------|-------------|
 |Gestión de clientes|Permite realizar búsqueda por código del representante de venta, utiliza la información ingresada en la caja de texto.|
